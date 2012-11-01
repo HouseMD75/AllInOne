@@ -1,0 +1,6 @@
+name: AllInOne
+main: com.github.HouseMD75.AllInOne.AllInOne
+version: 0.1
+description: >
+			 The Master Plugin That Combines Multiple Plugins Together
+commands:
